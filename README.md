@@ -1,4 +1,78 @@
 
+# Personal Cloud Storage
+
+A web-based personal cloud storage application built with Python and AWS. This project allows users to securely upload, store, access, and manage their files from anywhere, demonstrating core concepts of cloud application development.
+
+## About The Project
+
+This application provides a simplified, personal alternative to commercial cloud storage services. It's designed to showcase proficiency in fundamental cloud technologies, particularly within the Amazon Web Services (AWS) ecosystem.
+
+### Key Features:
+*   **User Authentication:** Secure user sign-up and login functionality.
+*   **File Operations:** Users can upload, download, and delete their files.
+*   **Secure Storage:** Leverages AWS S3 for durable and scalable object storage.
+*   **Web Interface:** A clean and simple front-end for easy file management.
+
+### Built With
+
+### Built With
+
+*   [Java](https://www.java.com/) - Backend Logic
+*   [AWS SDK for Java](https://aws.amazon.com/sdk-for-java/) - AWS Integration
+*   [Python (Flask)](https://flask.palletsprojects.com/) - Web Framework
+*   [AWS S3](https://aws.amazon.com/s3/) - Scalable Cloud Storage
+*   [AWS EC2](https://aws.amazon.com/ec2/) - Virtual Server Hosting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 import java.io.File;
 
